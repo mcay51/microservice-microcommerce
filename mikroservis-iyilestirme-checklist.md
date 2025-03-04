@@ -22,9 +22,9 @@
   - [ ] Resilience4j veya Hystrix entegrasyonu
   - [ ] Fallback mekanizmaları
 
-- [ ] **API Dokümantasyonu**
-  - [ ] SpringDoc OpenAPI entegrasyonu
-  - [ ] Swagger UI yapılandırması
+- [x] **API Dokümantasyonu**
+  - [x] SpringDoc OpenAPI entegrasyonu
+  - [x] Swagger UI yapılandırması
 
 - [ ] **Servisler Arası İletişim İyileştirmesi**
   - [ ] Feign Client yapılandırması

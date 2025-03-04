@@ -1,8 +1,8 @@
 target/
 .idea/
-!.mvn/wrapper/maven-wrapper.jar
-!**/src/main/**/target/
-!**/src/test/**/target/
+.mvn/
+apigateway-server/.idea/
+apigateway-server/.mvn/wrapper/
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
@@ -29,12 +29,11 @@ target/
 /nbdist/
 /.nb-gradle/
 build/
-!**/src/main/**/build/
-!**/src/test/**/build/
+
 
 ### VS Code ###
 .vscode/
 
 ### Mac OS ###
 .DS_Store
-/.idea/
+

@@ -30,17 +30,17 @@
   - [ ] Feign Client yapılandırması
   - [ ] RestTemplate yapılandırması
 
-- [ ] **Hata Yönetimi**
-  - [ ] Global exception handling mekanizması
-  - [ ] Standart hata yanıt formatı
+- [x] **Hata Yönetimi**
+  - [x] Global exception handling mekanizması
+  - [x] Standart hata yanıt formatı
 
 - [ ] **Veritabanı Stratejisi**
   - [ ] Her mikroservis için ayrı veritabanı/şema yapılandırması
   - [ ] Basit veritabanı migrasyonu yapılandırması (Flyway/Liquibase)
 
-- [ ] **Sağlık Kontrolleri**
-  - [ ] Spring Boot Actuator ile detaylı sağlık kontrolleri
-  - [ ] Özel sağlık kontrol endpoint'leri
+- [x] **Sağlık Kontrolleri**
+  - [x] Spring Boot Actuator ile detaylı sağlık kontrolleri
+  - [x] Özel sağlık kontrol endpoint'leri
 
 - [ ] **Konfigürasyon İyileştirmesi**
   - [ ] Hassas bilgilerin şifrelenmesi için yapılandırma
